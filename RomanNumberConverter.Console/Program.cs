@@ -1,3 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using RomanNumberConverter;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Insert a roman number");
+var input = Console.ReadLine();
+
+var converter = new Converter();
+var result = converter.RomanNumberToDecimal(input);
+
+Console.WriteLine(result.ToString());
+Console.ReadLine();

@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumberConverter", "Rom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumberConverter.Console", "RomanNumberConverter.Console\RomanNumberConverter.Console.csproj", "{2BF068BB-49AB-419E-A1F4-22AE2A9B9CDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumberConverter.Tests", "RomanNumberConverter.Tests\RomanNumberConverter.Tests.csproj", "{F2E8C596-293D-4447-8808-F506C57EDF44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumberConverter.Tests", "RomanNumberConverter.Tests\RomanNumberConverter.Tests.csproj", "{9BDEEF6E-0FE0-42C1-B6A0-AA58CA1E8F44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,9 +20,9 @@ Global
 		{2BF068BB-49AB-419E-A1F4-22AE2A9B9CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BF068BB-49AB-419E-A1F4-22AE2A9B9CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BF068BB-49AB-419E-A1F4-22AE2A9B9CDB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F2E8C596-293D-4447-8808-F506C57EDF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F2E8C596-293D-4447-8808-F506C57EDF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F2E8C596-293D-4447-8808-F506C57EDF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F2E8C596-293D-4447-8808-F506C57EDF44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDEEF6E-0FE0-42C1-B6A0-AA58CA1E8F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDEEF6E-0FE0-42C1-B6A0-AA58CA1E8F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDEEF6E-0FE0-42C1-B6A0-AA58CA1E8F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDEEF6E-0FE0-42C1-B6A0-AA58CA1E8F44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
